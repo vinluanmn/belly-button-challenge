@@ -1,6 +1,3 @@
-
-//function that updates the dashboard.
-
 // function that populates the metadata
 
 function demoInfo(sample)
